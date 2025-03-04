@@ -29,11 +29,11 @@ body {
     align-items: center;
 }
 
-.logo {
-    font-size: 1.8rem;
-    font-weight: bold;
-    color: black;
+
+.logo img {
+   height: 30px;
 }
+
 
 .nav-links a {
     margin-left: 20px;
