@@ -16,12 +16,11 @@ body {
     align-items: center;
 }
 
-.logo {
-    font-size: 1.8rem;
-    font-weight: bold;
-    color:  black;
-    text-decoration: none;
+
+.logo img {
+   height: 30px;
 }
+
 
 .nav-links {
     list-style: none;
